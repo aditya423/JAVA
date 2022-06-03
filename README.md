@@ -1,6 +1,6 @@
 # JAVA
 
-ASSIGNMENTS - Homework programs
-DAILY ACTIVITY - Daily practiced programs
-LAB ACTIVITY - Every thursday programs
+ASSIGNMENTS - Homework programs <br />
+DAILY ACTIVITY - Daily practiced programs <br />
+LAB ACTIVITY - Every thursday programs <br />
 
