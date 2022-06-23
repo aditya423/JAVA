@@ -1,0 +1,13 @@
+1. Class 
+-- A class is a user defined blueprint or prototype from which objects are created
+-- It's a collection of objects
+
+## Conctructor
+-- It is a special method that is used to initialize objects
+
+2. Object
+-- Run time entity which has 
+   -- identity(name of dog)
+   -- state/attributes(breed,age,color) 
+   -- behaviors(bark,sleep,eat)
+-- Instance of a class
