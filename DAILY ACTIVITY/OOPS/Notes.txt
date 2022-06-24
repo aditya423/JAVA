@@ -4,6 +4,18 @@
 
 ## Conctructor
 -- It is a special method that is used to initialize objects
+-- It cannot declare with return type
+-- When we create object the body of constructor invoked because there is always a default constructor in your code
+-- Types
+   -- Default
+   -- Parameterized 
+   -- Copy
+      -- By Constructor
+      -- By assigning the value of one object into another
+      -- By using clone() method
+
+## Constructor Overloading
+-- constructors having same name but different in parameters
 
 2. Object
 -- Run time entity which has 
@@ -11,3 +23,7 @@
    -- state/attributes(breed,age,color) 
    -- behaviors(bark,sleep,eat)
 -- Instance of a class
+-- Initialised 
+   -- Using Reference 
+   -- Using Method
+   -- Using Constructor
