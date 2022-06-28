@@ -27,3 +27,29 @@
    -- Using Reference 
    -- Using Method
    -- Using Constructor
+
+## Method Overloading
+-- methods having same name but different in parameters
+
+## Static Keyword
+-- It is used to invoke the body of class without creating object
+-- static w are using for memory management
+-- Characteristics
+   -- static keyword actually belongs to class rather than object of class
+   -- we can use static keyword with 
+      -- variable
+      -- method 
+      -- as block
+      -- in nested class
+-- Understanding
+   -- without static --> different copies of variables/methods for every object
+   -- with static    --> same variable/method for every object)
+
+## this Keyword
+-- used as a reference variable which refer the current object 
+-- It can be used with methods as well as constructors
+-- can be used 
+   -- to refer the current class instance variable
+   -- to invoke the current class method 
+   -- to invoke the current class constructor/reuse of constructor
+   -- constructor chaining
