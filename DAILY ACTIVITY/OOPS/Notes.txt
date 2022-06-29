@@ -51,5 +51,8 @@
 -- can be used 
    -- to refer the current class instance variable
    -- to invoke the current class method 
-   -- to invoke the current class constructor/reuse of constructor
-   -- constructor chaining
+   -- to invoke the current class constructor/reuse of constructor 
+      -- constructor chaining
+   -- to pass as argument in the method - used to reuse one object in multiple methods purpose in event handling
+   -- to pass as argument in constructor
+      -- when we have multiple classes and we trying to use one object to that 
