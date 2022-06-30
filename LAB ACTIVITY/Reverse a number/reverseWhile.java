@@ -1,6 +1,6 @@
-import java.util.Scanner;
-
 // Write a program to reverse a number using while loop 
+
+import java.util.Scanner;
 
 public class reverseWhile {
     
