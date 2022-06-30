@@ -7,26 +7,26 @@
 - It cannot declare with return type
 - When we create object the body of constructor invoked because there is always a default constructor in your code
 - Types
-   -- Default
-   -- Parameterized 
-   -- Copy
-      -- By Constructor
-      -- By assigning the value of one object into another
-      -- By using clone() method
+   <br>-- Default
+   <br>-- Parameterized 
+   <br>-- Copy
+      <br>-- By Constructor
+      <br>-- By assigning the value of one object into another
+      <br>-- By using clone() method
 
 ## Constructor Overloading
 - constructors having same name but different in parameters
 
 ## Object
 - Run time entity which has 
-   -- identity(name of dog)
-   -- state/attributes(breed,age,color) 
-   -- behaviors(bark,sleep,eat)
+   <br>-- identity(name of dog)
+   <br>-- state/attributes(breed,age,color) 
+   <br>-- behaviors(bark,sleep,eat)
 - Instance of a class
 - Initialised 
-   -- Using Reference 
-   -- Using Method
-   -- Using Constructor
+   <br>-- Using Reference 
+   <br>-- Using Method
+   <br>-- Using Constructor
 
 ## Method Overloading
 - methods having same name but different in parameters
@@ -35,24 +35,24 @@
 - It is used to invoke the body of class without creating object
 - static w are using for memory management
 - Characteristics
-   -- static keyword actually belongs to class rather than object of class
-   -- we can use static keyword with 
-      -- variable
-      -- method 
-      -- as block
-      -- in nested class
+   <br>-- static keyword actually belongs to class rather than object of class
+   <br>-- we can use static keyword with 
+      <br>-- variable
+      <br>-- method 
+      <br>-- as block
+      <br>-- in nested class
 - Understanding
-   -- without static --> different copies of variables/methods for every object
-   -- with static    --> same variable/method for every object)
+   <br>-- without static --> different copies of variables/methods for every object
+   <br>-- with static    --> same variable/method for every object)
 
 ## this Keyword
 - used as a reference variable which refer the current object 
 - It can be used with methods as well as constructors
 - can be used 
-   -- to refer the current class instance variable
-   -- to invoke the current class method 
-   -- to invoke the current class constructor/reuse of constructor 
-      -- constructor chaining
-   -- to pass as argument in the method - used to reuse one object in multiple methods purpose in event handling
-   -- to pass as argument in constructor
-      -- when we have multiple classes and we trying to use one object to that 
+   <br>-- to refer the current class instance variable
+   <br>-- to invoke the current class method 
+   <br>-- to invoke the current class constructor/reuse of constructor 
+      <br>-- constructor chaining
+   <br>-- to pass as argument in the method - used to reuse one object in multiple methods purpose in event handling
+   <br>-- to pass as argument in constructor
+      <br>-- when we have multiple classes and we trying to use one object to that 
