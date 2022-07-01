@@ -8,6 +8,13 @@
 - Syntax:
   <br>CPP --> class derived_class_name : access_modifier parent_class_name
   <br>JAVA -> class derived_class_name extends parent_class_name
+- Types:
+  1. Single Inheritance
+  2. Multilevel Inheritance
+  3. Hierarchical Inheritance
+  4. Multiple Inheritance 
+  5. Hybrid Inheritance
 
 # Note
-- JAVA does not support Multiple Inheritance
+- JAVA does not support MULTIPLE Inheritances with classes
+- In java, we can achieve multiple inheritances only through INTERFACES
