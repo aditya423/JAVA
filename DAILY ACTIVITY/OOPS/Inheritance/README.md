@@ -18,3 +18,12 @@
 # Note
 - JAVA does not support MULTIPLE Inheritances with classes
 - In java, we can achieve multiple inheritances only through INTERFACES
+
+# Interface
+- to implement 100% Abstraction
+- interface is same like class but actually its not a class
+- methods don't have body there we can implement in the class only
+- the class that implements the interface only that class should define the methods
+- the methods are abstract
+- it may be variable by default they are public static and final
+

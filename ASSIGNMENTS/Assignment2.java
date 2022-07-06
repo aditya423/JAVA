@@ -1,4 +1,4 @@
-package assignments;
+// Data Types
 
 public class Assignment2 {
 

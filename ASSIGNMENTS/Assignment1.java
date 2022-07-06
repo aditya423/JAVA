@@ -1,5 +1,3 @@
-package assignments;
-
 // Assignment1: WAP in java to perform all the Arithmetic operations(+,-,*,/)
 
 public class Assignment1 {
