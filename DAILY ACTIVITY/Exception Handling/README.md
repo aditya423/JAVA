@@ -1,16 +1,16 @@
 # Types of Exceptions
 1. Checked (Compile Time Exception)
-– [x] ClassNotFoundException
-– [x] IOException
-– [x] SQLException
+- [x] ClassNotFoundException
+- [x] IOException
+- [x] SQLException
 2. Unchecked (Run Time Exception)
-– [ ] ArithmeticException
+- [ ] ArithmeticException
 -  dividing number by zero
-– [ ] NullPointerException
+- [ ] NullPointerException
 - array length is 5 but trying to access 8th element
-– [ ] ArrayIndexOutOfBoundsException
+- [ ] ArrayIndexOutOfBoundsException
 - initialising the variable with null value
-– [ ] NumberFormatException
+- [ ] NumberFormatException
 - int b = Integer.parseInt("Hello")
 
 # How to handle exceptions
