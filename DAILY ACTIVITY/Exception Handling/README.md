@@ -13,8 +13,8 @@
 - [ ] NumberFormatException ------------> convert a string with an incorrect format to a numeric value
 
 # How to Handle Exceptions
-1. try ------> the situation where the chances of application crash there
+1. try -------> the situation where the chances of application crash there
 2. catch ----> which handles the exception
-3. finally --> get to know exception is handled or not
+3. finally ---> get to know exception is handled or not
 4. throw ----> to throw the exception
 5. throws ---> to declare the exception
