@@ -1,3 +1,6 @@
+# What is Exception?
+- It is an event, which occurs during the execution of a program, that disrupts the normal flow of the program's instructions
+
 # Types of Exceptions
 1. Checked (Compile Time Exception)
 - [x] ClassNotFoundException
@@ -13,7 +16,7 @@
 - [ ] NumberFormatException
 - int b = Integer.parseInt("Hello")
 
-# How to handle exceptions
+# How to Handle Exceptions
 1. try ------> the situation where the chances of application crash there
 2. catch ----> which handles the exception
 3. finally --> get to know exception is handled or not

@@ -1,3 +1,4 @@
+package Assignment2;
 // Data Types
 
 public class Assignment2 {

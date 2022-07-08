@@ -1,3 +1,4 @@
+package Assignment6;
 // Create one interface Bank and try to implement method rate of interest in different banks 
 // and try to implement abstraction using interface
 

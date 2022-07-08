@@ -1,3 +1,4 @@
+package Assignment3;
 // Write a program that reads an integer and check whether it is negative, zero or positive
 
 import java.util.Scanner;

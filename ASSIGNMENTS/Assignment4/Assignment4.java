@@ -1,3 +1,4 @@
+package Assignment4;
 // Write a program to calculate Fibonacci Series up to n numbers
 
 import java.util.Scanner;
